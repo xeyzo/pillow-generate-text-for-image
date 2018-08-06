@@ -1,0 +1,1 @@
+# pillow-generate-text-for-image
